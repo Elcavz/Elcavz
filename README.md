@@ -46,7 +46,7 @@
 
 <div align="center">
   
-``` Strive to improve by just 1% each day, and you'll be amazed at how time flies when curiosity fuels your progress. ```
+``` One Code A Day Keeps The Bugs Away. ```
   
 </div>
 
