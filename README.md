@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elcavz-beta&label=Profile%20views&color=0e75b6&style=flat" alt="sceiiya" />
+  <img src="https://komarev.com/ghpvc/?username=Elcavz-beta&label=Profile%20views&color=0e75b6&style=flat" alt="Elcavz" />
   <a href="https://github.com/Elcavz">
     <img src="https://img.shields.io/github/followers/Elcavz" alt="github">
   </a>
@@ -38,7 +38,7 @@
 ## Checkout my Github Stat
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcavz&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack)](https://github.com/sceiiya?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcavz&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack)](https://github.com/Elcavz?tab=repositories)
 
 </div>
 
