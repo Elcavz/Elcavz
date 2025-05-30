@@ -35,6 +35,13 @@
 ![Debian](https://img.shields.io/badge/debian-%232c3e50.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## My Github Trophies
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Elcavz&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+
+</div>
+
 ## Checkout my Github Stat
 <div align="center">
   
@@ -43,15 +50,6 @@
 
   | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcavz&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack) |
   | --- |
-
-</div>
-
----
-
-## My Github Trophies
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Elcavz&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 </div>
 
