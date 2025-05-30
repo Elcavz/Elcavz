@@ -37,8 +37,21 @@
 
 ## Checkout my Github Stat
 <div align="center">
+  
+  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elcavz&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elcavz&theme=radical) |
+  | --- | --- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcavz&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack)](https://github.com/Elcavz?tab=repositories)
+  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcavz&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack) |
+  | --- |
+
+</div>
+
+---
+
+## My Github Trophies
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Elcavz&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 </div>
 
@@ -51,10 +64,4 @@
 </div>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
