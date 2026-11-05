@@ -6,6 +6,7 @@
 
 <br />
 
+<a href="https://renzsayaman.online"><img src="https://img.shields.io/badge/Portfolio-renzsayaman.online-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My portfolio: renzsayaman.online" /></a>
 <a href="https://elcavzflixter.site"><img src="https://img.shields.io/badge/Live_Project-Elcavz_Flixter-fe428e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live project: Elcavz Flixter" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.elcavz.elcavzflixter"><img src="https://img.shields.io/badge/Google_Play-Get_the_App-0e75b6?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get the app on Google Play" /></a>
 <a href="mailto:renzsayaman100@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Email-2c3e50?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
@@ -27,6 +28,8 @@ I'm a full-stack developer focused on helping business owners get online and sta
 - 🛠️ **Troubleshooting** for website systems that are slow, broken, or hard to maintain
 - ⚙️ **Custom applications** that save time and streamline daily operations
 - 📱 **Android apps** that bring your website to the Play Store
+
+👉 See more of my work at **[renzsayaman.online](https://renzsayaman.online)**.
 
 <br />
 
@@ -103,6 +106,7 @@ Need a new website, a fix for an existing system, or a custom tool for your busi
 
 <div align="center">
 
+<a href="https://renzsayaman.online"><img src="https://img.shields.io/badge/renzsayaman.online-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="renzsayaman.online" /></a>
 <a href="mailto:renzsayaman100@gmail.com"><img src="https://img.shields.io/badge/renzsayaman100@gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="renzsayaman100@gmail.com" /></a>
 
 <br /><br />
